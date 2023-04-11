@@ -10,7 +10,7 @@ conventionalcommits = "conventionalcommits"
 extend-exclude = [
     "**/.vscode/**/",
     "**/*.json",
-    "_typos.toml",
+    "**/**.toml",
     "**/GoogleService-Info.*",
     "cspell.config.yaml",
 ]

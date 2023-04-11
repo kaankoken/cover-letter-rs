@@ -3,6 +3,7 @@ ignorePaths:
   - "**/.vscode/**/"
   - "**/*.json"
   - cspell.config.yaml
+  - "**/.toml"
 dictionaryDefinitions: []
 dictionaries: []
 words: []
