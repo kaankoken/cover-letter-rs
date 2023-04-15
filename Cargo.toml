@@ -2,7 +2,10 @@
 name = "cover-letter-rs"
 version = "0.1.0"
 edition = "2021"
-
+authors = ["Kaan Taha Köken <kaan_taha_koken@hotmail.com>"]
+repository = "https://www.github.com/kaankoken/cover-letter-rs.git"
+readme = "https://github.com/kaankoken/cover-letter-rs/blob/master/README.md"
+keywords = ["cover letter", "cli", "cli-app", "chat-gpt", "gpt", "automation", "rust", "learning-rust"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
